@@ -45,13 +45,13 @@ PHASE 2: Corporate Strategy
 
 ●	PORTER’S FIVE FORCES
 
-●	BMM
+●	BMM - Business Motivation Model
 
-●	BMC
+●	BMC - Business Model Canvas
 
 PHASE 3: Business Process
 
-●	BPMN
+●	BPMN - Business Proces Model Notation
 
 PHASE 4: UML & Use Case
 
